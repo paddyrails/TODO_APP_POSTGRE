@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODO.Services.ToDoAPI", "TODO.Services.ToDoAPI\TODO.Services.ToDoAPI.csproj", "{687C49F1-021D-4FC6-9589-2FEAD86C4656}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94184181-63AE-4939-8E43-285AC828E62B}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687C49F1-021D-4FC6-9589-2FEAD86C4656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687C49F1-021D-4FC6-9589-2FEAD86C4656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687C49F1-021D-4FC6-9589-2FEAD86C4656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687C49F1-021D-4FC6-9589-2FEAD86C4656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF81B9A-D614-4298-8F7A-8FD6C8DCB0BD}
+	EndGlobalSection
+EndGlobal
